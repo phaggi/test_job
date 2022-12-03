@@ -1,3 +1,3 @@
-[submodule "test_job_secret"]
-	path = test_job_secret
+[submodule "_secret"]
+	path = _secret
 	url = /Users/phaggi/PycharmProjects/test_job_secret/
